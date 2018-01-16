@@ -189,5 +189,5 @@ int main() {
 
 	vec.push_back(b1);
 	vec.push_back(b2);
-
+	vec.size();
 }
